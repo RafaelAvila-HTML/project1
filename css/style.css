@@ -2,8 +2,22 @@ body {
   background-color: #3483eb
 }
 
+h1 {
+  font-size: 3em;
+  color: #cc3333;
+  text-align: center;
+}
+
+.box {
+  padding: 25px;
+  background-color: #11238a;
+  margin: 20px auto;
+  max-width: 75%;
+  align-items: left
+} 
+
 img {
 	display: block;
-	width: 30%;
+	width: 20%;
 	margin: auto;
 }
