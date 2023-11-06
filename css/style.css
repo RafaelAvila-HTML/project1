@@ -23,6 +23,11 @@ h2 {
   padding: 10px;
 }
 
+p {
+  font-size: 1.2em;
+  padding: 10px;
+}
+
 img {
 	display: block;
 	width: 20%;
